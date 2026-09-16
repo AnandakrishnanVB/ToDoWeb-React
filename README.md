@@ -19,7 +19,7 @@ A simple and responsive To-Do List application built using **React**. Manage you
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![Home](./screenshots/todo-home.png)
 
