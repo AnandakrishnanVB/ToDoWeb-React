@@ -25,7 +25,7 @@ A simple and responsive To-Do List application built using **React**. Manage you
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - HTML/CSS
@@ -33,7 +33,7 @@ A simple and responsive To-Do List application built using **React**. Manage you
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/kichu3000/ToDoWeb-React.git
@@ -42,7 +42,7 @@ npm install
 npm run dev
 ```
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 ToDoWeb-React/
