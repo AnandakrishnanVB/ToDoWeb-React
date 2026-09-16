@@ -1,21 +1,21 @@
-# ✅ To-Do Web App
+# To-Do Web App
 
 A simple and responsive To-Do List application built using **React**. Manage your daily tasks with a clean and intuitive interface.
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
-👉 [Check it out here](https://kichu3000.github.io/ToDoWeb-React/)
+ [Check it out here](https://kichu3000.github.io/ToDoWeb-React/)
 
 ---
 
-## 🧠 Features
+##  Features
 
-- ➕ Add new tasks
-- ✅ Mark tasks as complete
-- ❌ Delete tasks
-- 📱 Responsive layout for all screen sizes
+-  Add new tasks
+-  Mark tasks as complete
+- Delete tasks
+- Responsive layout for all screen sizes
 
 ---
 
